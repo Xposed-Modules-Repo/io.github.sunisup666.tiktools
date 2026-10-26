@@ -6,6 +6,10 @@
 
 [下载](https://github.com/Xposed-Modules-Repo/io.github.sunisup666.tiktools/releases) · [源码与完整说明](https://github.com/sunisup666/TikTools) · [反馈](https://github.com/sunisup666/TikTools/issues) · [隐私说明](https://github.com/sunisup666/TikTools/blob/main/docs/PRIVACY.md)
 
+## App language
+
+Open **Overview → App language** to choose **Follow system**, **English**, or **简体中文**. Settings, maps, preset names and validation messages support both languages. Module parameters are preserved.
+
 ## 使用
 
 1. 需要 Android 13+、ARM64 和 Vector 或兼容的 LSPosed / Xposed 框架。
